@@ -31,7 +31,7 @@ user this data for checking purpose.
 >    - **Service** - ProductService (interface), ProductServiceImpl (class)
 >    - **Controller** - ProductController (Class)
 >      
-> 2. Add OpenPDF is a Java library in pom.xml file.
+> 2. Add OpenPDF Java library in pom.xml file.
 > 3. Create a generate pdf method in service class.
 
 ## Important Dependency to be used
