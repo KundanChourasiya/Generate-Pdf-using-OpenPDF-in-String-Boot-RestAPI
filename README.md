@@ -308,6 +308,6 @@ Url - http://localhost:8080/api/v1/product
 Url - http://localhost:8080/api/v1/product/pdf-report
 ![image](https://github.com/user-attachments/assets/2e396dc6-4712-469d-b165-bc0f71a97122)
 
-
+**Note**: copy and paste the browser search bar(http://localhost:8080/api/v1/product/pdf-report).
 ![image](https://github.com/user-attachments/assets/9b458abf-63a6-4a51-8c8e-bd2fb435c174)
 
