@@ -48,11 +48,11 @@ user this data for checking purpose.
  </dependency>
 
 <!-- https://mvnrepository.com/artifact/com.github.librepdf/openpdf -->
-		<dependency>
-			<groupId>com.github.librepdf</groupId>
-			<artifactId>openpdf</artifactId>
-			<version>2.0.3</version>
-		</dependency>
+	<dependency>
+		<groupId>com.github.librepdf</groupId>
+		<artifactId>openpdf</artifactId>
+		<version>2.0.3</version>
+	</dependency>
 
 <dependency>
 	<groupId>org.springdoc</groupId>
